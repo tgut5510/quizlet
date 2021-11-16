@@ -1,0 +1,85 @@
+https://quizlet.com/_aidk0e?x=1jqt&i=426q4l
+
+object-oriented programming
+discover object, properties, and relationship to design program
+
+class
+blueprint for properties of object
+
+object
+contain unique properties; instance of class
+
+method
+function or procedure; defined in class
+
+package
+encapsulate group of class or interface
+
+properties
+contain state, behavior, and identity of object; defined in class
+
+interface
+properties class must implement
+
+constructor
+method that initialize new object
+
+no argument constructor
+do not accept parameter; utilize instance variable
+
+parameterized constructor
+more than one parameter
+
+local class variable
+constructor access and initialize within method
+
+instance class variable
+constructor access within class but outside method; initialize when class instantiate
+
+class variable
+constructor access within class but outside method
+
+object declaration
+variable name and object type
+
+object instantiation
+create object
+
+object initialization
+call constructor to assign object
+
+inheritance
+child class inherit data or behavior from parent class
+
+encapsulation
+combine information into single unit; hide information
+
+abstraction
+require essential detail of program; ignore implementation
+
+polymorphism
+same interface can do multiple task
+
+access modifier
+define circumstance where method or class can be accessed
+
+private access modifier
+accessible within same class
+
+public access modifier
+accessible within all outside class
+
+default access modifier
+accessible within same package and class
+
+protected access modifier
+accessible within same package
+
+application programming interface
+function or procedure that allow application to share information
+
+override
+child class provide implementation of method thats already provide through parent class
+
+overload
+different method can have same name
