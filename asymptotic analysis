@@ -1,0 +1,70 @@
+https://quizlet.com/_aidjdt?x=1jqt&i=426q4l
+
+big O notation
+denote asymptotic upper bound; worst case
+
+Omega notation
+denote asymptotic lower bound; best case
+
+Theta notation
+define asymptotic lower bound and upper bound; average case
+
+algorithmic notation
+determine how well algorithm scale depend on input size
+
+space complexity
+amount of memory algorithm need; x axis
+
+time complexity
+length of time to compute algorithm; y axis
+
+O(1)
+constant
+
+O(log n)
+logarithmic
+
+O(n)
+linear
+
+O(n log n)
+log linear
+
+O(n^square)
+quadratic
+
+O(n^cube)
+cubic
+
+n^O(1)
+polynomial
+
+O(2^n)
+exponential
+
+O(n!)
+factorial
+
+constant notation
+algorithm execute same complexity no matter size of input
+
+logarithmic notation
+algorithm reduce problem size for each input item
+
+linear notation
+algorithm performance grow linear and direct proportion to size of input
+
+log linear notation
+algorithm perform logarithmic operation for each input item
+
+quadratic notation
+algorithm performance grow linear and direct proportion to size of input square
+
+cubic notation
+algorithm performance grow linear and direct proportion to size of input cube
+
+exponential notation
+algorithm grow double for each input item
+
+factorial notation
+algorithm perform multiple computation to solve problem; performance decrease for each input item
