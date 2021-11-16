@@ -1,0 +1,31 @@
+https://quizlet.com/_aidjvm?x=1jqt&i=426q4l
+
+function
+code that repeat instruction when called
+
+argument
+value sent to function when called
+
+parameter
+variable listed inside function parenthesis
+
+arbitrary argument
+when you don't know number of argument inside function
+
+recurse function
+function can call itself to loop data
+
+scope
+where value and function can be accesed
+
+global scope
+value / function can be accessed anywhere in program
+
+file or module scope
+value / function can only be accessed within file
+
+function scope
+value / function only visible within function
+
+code block scope
+value / function only visible within { } code block
