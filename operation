@@ -1,0 +1,61 @@
+https://quizlet.com/_aidk40?x=1jqt&i=426q4l
+
+comparison operator
+indicate relationship between two value
+
+arithmetic operator
+mathematical operation between two value
+
+logical operator
+condition that result true or false between two value
+
+bitwise operator
+special operator to manipulate integer
+
+assignment operator
+change value of variable
+
+> comparison operator
+greater than
+
+< comparison operator
+less than
+
+== comparison operator
+equal to
+
+!= comparison operator
+not equal to
+
+>= comparison operator
+greater than or equal to
+
+<= comparison operator
+less than or equal to
+
+* arithmetic operator
+multiplication
+
+/ arithmetic operator
+float division
+
+// arithmetic operator
+floor division
+
+% arithmetic operator
+modulus
+
+** arithmetic operator
+exponentiation
+
+AND logical operator
+true when both operand true
+
+OR logical operator
+true when either operand true
+
+NOT logical operator
+true when operand false
+
+XOR logical operator
+true when only one operand true
