@@ -3,11 +3,8 @@ https://quizlet.com/_aidjvm?x=1jqt&i=426q4l
 function
 code that repeat instruction when called
 
-argument
+argument / parameter
 value sent to function when called
-
-parameter
-variable listed inside function parenthesis
 
 arbitrary argument
 when you don't know number of argument inside function
